@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RepeatPass_field</name>
+   <tag></tag>
+   <elementGuidId>d1697aa9-8a13-466c-b461-61694b254e52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.EditText[@content-desc=&quot;input-repeat-password&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.EditText[@content-desc=&quot;input-repeat-password&quot;]</value>
+      <webElementGuid>e0b40c2e-12cc-4274-956d-23aed52148ad</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

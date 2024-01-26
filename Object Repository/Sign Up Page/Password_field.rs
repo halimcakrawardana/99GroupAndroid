@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Password_field</name>
+   <tag></tag>
+   <elementGuidId>9a5c0c67-f14e-4420-ad7f-aa73e017a464</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.EditText[@content-desc=&quot;input-password&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.EditText[@content-desc=&quot;input-password&quot;]</value>
+      <webElementGuid>4b1c1fbe-da6b-46cb-a14b-9db4829e0e7a</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

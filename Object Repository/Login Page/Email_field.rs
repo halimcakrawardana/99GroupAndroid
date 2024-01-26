@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Email_field</name>
+   <tag></tag>
+   <elementGuidId>d198b0a1-ef45-4d03-813e-646ebfc52e04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.EditText[@content-desc=&quot;input-email&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.EditText[@content-desc=&quot;input-email&quot;]</value>
+      <webElementGuid>7a8d9167-16b6-40bc-9f3e-b9a4d359d51b</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

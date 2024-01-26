@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Confirm_btn</name>
+   <tag></tag>
+   <elementGuidId>fab2f42c-ce88-4e84-bafe-c36db7c0b5f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.Button[@resource-id=&quot;android:id/button1&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.Button[@resource-id=&quot;android:id/button1&quot;]</value>
+      <webElementGuid>e027df56-5740-49e5-8103-7343455cc19c</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

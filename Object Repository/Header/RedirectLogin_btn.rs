@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>RedirectLogin_btn</name>
+   <tag></tag>
+   <elementGuidId>06b939c4-fd1e-46a1-9120-4cff75a5fafa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//android.widget.TextView[@text=&quot;Login&quot;])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//android.widget.TextView[@text=&quot;Login&quot;])[1]</value>
+      <webElementGuid>3a425e62-34d5-42f1-a16e-28b11845bf40</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Login_btn</name>
+   <tag></tag>
+   <elementGuidId>2c25ca58-ded7-4eba-bc87-190415595ecd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//android.widget.TextView[@text=&quot;LOGIN&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//android.widget.TextView[@text=&quot;LOGIN&quot;]</value>
+      <webElementGuid>f05db34d-4701-49b2-a730-f6a896d21a78</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
